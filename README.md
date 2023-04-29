@@ -1,4 +1,7 @@
-# Project Sleep
+# CS305-module5
+
+
+## Project Sleep
 
 This is a hypothetical project that flashes a sequence of lights from your monitor that puts you to sleep, somehow
 
