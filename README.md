@@ -1,4 +1,10 @@
 # CS305-module5
 
-## Possible AI Implementation
-While this project is still in its infancy, AI application could start as soon as square one with the ability to find similarities between anything wanted. 
+
+## Project Sleep
+
+This is a hypothetical project that flashes a sequence of lights from your monitor that puts you to sleep, somehow
+
+# Licence
+
+We will be using the MIT licence
